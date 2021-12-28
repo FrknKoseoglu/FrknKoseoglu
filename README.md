@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **info@furkankoseoglu.com**
 
-- 🏆 My Last 3 Project 
--- [https://ensemble.furkankoseoglu.com/](https://ensemble.furkankoseoglu.com/)
--- [https://bilgi-borsasi.furkankoseoglu.com/links.html](https://bilgi-borsasi.furkankoseoglu.com/links.html)
--- [https://daxler-energy.furkankoseoglu.com/](https://daxler-energy.furkankoseoglu.com/)
+- 🏆 My Last 3 Project <br>
+-- [https://ensemble.furkankoseoglu.com/](https://ensemble.furkankoseoglu.com/) <br>
+-- [https://bmb-blog.furkankoseoglu.com/links.html](https://bmb-blog.furkankoseoglu.com/links.html)<br>
+-- [https://daxler-energy.furkankoseoglu.com/](https://daxler-energy.furkankoseoglu.com/)<br>
 
 
 <h3 align="left">Connect with me:</h3>
