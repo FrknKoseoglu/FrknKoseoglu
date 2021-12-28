@@ -3,11 +3,17 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [http://furkankoseoglu.com](http://furkankoseoglu.com)
+- 👨‍💻 All of my projects are available at [https://furkankoseoglu.com/#portfolio](https://furkankoseoglu.com/#portfolio)
 
 - 💬 Ask me about **HTML, Javascript, CSS, Jquery, Bootstrap**
 
 - 📫 How to reach me **info@furkankoseoglu.com**
+
+- 🏆 My Last 3 Project 
+-- [https://ensemble.furkankoseoglu.com/](https://ensemble.furkankoseoglu.com/)
+-- [https://bilgi-borsasi.furkankoseoglu.com/links.html](https://bilgi-borsasi.furkankoseoglu.com/links.html)
+-- [https://daxler-energy.furkankoseoglu.com/](https://daxler-energy.furkankoseoglu.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
