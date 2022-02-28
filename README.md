@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, Javascript, CSS, Jquery, Bootstrap**
 
-- 📫 How to reach me **info@furkankoseoglu.com**
+- 📫 How to reach me **[mailto:info@furkankoseoglu.com](info@furkankoseoglu.com)** - [https://t.me/furkankoseoglu](Telegram)
 
 - 🏆 My Last 3 Project <br>
 -- [https://ensemble.furkankoseoglu.com/](https://ensemble.furkankoseoglu.com/) <br>
