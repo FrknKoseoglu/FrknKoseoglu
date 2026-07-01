@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Frontend Developer | Vanilla JS Expert | DevX & AI Enthusiast</h3>
+<h3 align="center">Senior Frontend Developer | React & TypeScript | AI-Assisted DevX</h3>
 
 <p align="center">
   <em>"I take a pragmatic approach to frontend development. My goal is not just to write code, but to engineer sustainable solutions that balance performance, maintainability, and developer experience."</em>
@@ -15,27 +15,26 @@
 
 ### 🚀 About Me
 
-I specialize in building scalable web applications with a deep understanding of **Core JavaScript (ES6+)** and **Component-Based Architecture**. With a background starting in Full-Stack (.NET), I have evolved into a dedicated Frontend Developer who values:
+I am a **Senior Frontend Developer** with approximately 8 years of experience building scalable web and mobile applications. I specialize in modern JavaScript/TypeScript ecosystems and highly value deterministic testing and AI-driven workflows.
 
-* **Clean Architecture:** Mastering the "nuts and bolts" of JS beyond frameworks.
-* **Workflow Automation:** Leveraging CI/CD and custom tooling to reduce technical debt.
-* **AI Integration:** Actively using generative AI to accelerate development cycles.
+* **Modern Stack:** Architecting applications using React, React Native, TypeScript, Tailwind CSS, Vite, and Expo.
+* **Quality & Testing:** Advocating for rigorous E2E testing standards, utilizing Playwright for deterministic execution and strict selector policies (data-testids).
+* **Workflow Automation & AI:** Actively leveraging agentic AI tools (Cursor, Claude Code, MCP servers) to accelerate development cycles and reduce technical debt.
 
-- 🌱 I’m currently expanding my stack with **React.js & Modern State Management**.
+- 🌱 I’m currently focusing on **Expo/Supabase** integrations and expanding my open-source contributions.
 - 👨‍💻 All of my projects are available at [furkankoseoglu.com](https://furkankoseoglu.com/#portfolio)
-- 💬 Ask me about **Vanilla JS Architecture, DOM Manipulation, jQuery Migration, and Frontend Performance.**
+- 💬 Ask me about **React Architecture, Playwright E2E Testing, and integrating agentic AI into development workflows.**
 
 ---
 
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -44,15 +43,8 @@ I specialize in building scalable web applications with a deep understanding of 
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Ensemble** | A comprehensive web interface showcasing responsive design principles. | [Visit Site](https://ensemble.furkankoseoglu.com/) |
-| **BMB Blog** | A content-focused blog structure with clean layout. | [Visit Site](https://bmb-blog.furkankoseoglu.com/links.html) |
-| **Daxler Energy** | Corporate energy sector website implementation. | [Visit Site](https://daxler-energy.furkankoseoglu.com/) |
+| **Hakkımn'e** | Labor law calculators (severance/notice pay) built with an LLM-friendly architecture. | [hakkimne.com](https://hakkimne.com/) |
+| **Web Frame Player** | An open-source frame player implementation. | [webframeplayer.com](https://webframeplayer.com/) |
+| **Phintech** | Financial technology web interface and integration. | [Visit Site](http://phintech.furkankoseoglu.com/) |
 
 ---
-
-<p align="center">
-<a href="https://github.com/frknkoseoglu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=frknkoseoglu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frknkoseoglu&layout=compact&theme=gotham"/>
-</a>
-</p>
